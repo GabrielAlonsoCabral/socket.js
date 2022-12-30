@@ -1,6 +1,9 @@
 # SocketJs
   SocketJS is a basic communication between a server-side and a client-side using websockets.
 
+
+  Developed by: <a href="https://www.github.com/gabrielAlonsoCabral">@GabrielAlonsoCabral</a>  
+  <br/>
 ## Installation
 
 ```
